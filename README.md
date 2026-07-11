@@ -1,12 +1,52 @@
-# Hi, I'm Nimish Khandelwal 👋
+<div align="center">
 
-**iOS Developer | Swift · SwiftUI · UIKit**
+# Nimish Khandelwal
 
-iOS Developer with 1.5+ years of experience building and shipping production apps. Sole developer of an App Store app that reached **70,000+ users in 2 months** with **99.5% crash-free sessions**. Passionate about clean architecture, real-time features, and end-to-end App Store delivery.
+### iOS Developer · Swift · SwiftUI · UIKit
 
-- 💼 Currently: iOS App Developer at **Merilipi**
-- 🚀 **Open to iOS roles** — let's connect!
-- 🎓 B.Tech in Computer Science, JECRC University, Jaipur
+**I build and ship production iOS apps end-to-end — from first line of code to the App Store.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimish-khandelwal-955557265)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nimishkhandelwal2503@gmail.com)
+[![App Store](https://img.shields.io/badge/App%20Store-My%20Live%20App-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/in/app/lipi-punjabi-kids-learning/id6756845236)
+
+🚀 **Open to iOS Developer roles**
+
+</div>
+
+---
+
+## 📈 Impact at a Glance
+
+| | |
+|---|---|
+| 📲 **70,000+ users** | acquired in 2 months on an app I built solo from scratch |
+| 🛡 **99.5% crash-free sessions** | in production at scale |
+| 💰 **$9,000+ subscription revenue** | supported via StoreKit + Stripe integration |
+| 📊 **400K+ analytics events** | tracked in 28 days with Firebase Analytics |
+| 🐛 **40+ issues resolved** | UI, functional & crash fixes shipped to the App Store |
+
+## 💼 Experience
+
+### iOS App Developer — Merilipi <sub>Oct 2025 – Present</sub>
+Sole iOS developer of **[LiPi: Punjabi Kids Learning](https://apps.apple.com/in/app/lipi-punjabi-kids-learning/id6756845236)** — live on the App Store.
+- Built from scratch with **SwiftUI**, MVVM, Clean Architecture, and Swift Concurrency
+- Integrated **StoreKit subscriptions, Stripe payments, Firebase Auth, push notifications, Agora/LiveKit live classes**, Meta SDK, and Firebase Analytics
+
+### iOS App Developer — Vision Group Retail <sub>Feb 2025 – Sep 2025</sub>
+- Managed **end-to-end App Store deployment**: submission, review, release
+- Universal iPhone + iPad support with Auto Layout, Size Classes, and **VoiceOver accessibility**
+- Shipped 4+ new features; distributed builds via Firebase App Distribution
+
+## 🚀 Projects
+
+| Project | What it does | Tech |
+|---------|--------------|------|
+| [**LiPi: Punjabi Kids Learning**](https://apps.apple.com/in/app/lipi-punjabi-kids-learning/id6756845236) 📲 *Live on App Store* | Kids learning app — subscriptions, live classes, 70K+ users | SwiftUI, StoreKit, Stripe, Firebase, Agora/LiveKit |
+| **AutoPay Tracker** *(repo coming soon)* | Subscription tracker with payment reminders and home-screen widget | SwiftUI, SwiftData, WidgetKit, UserNotifications |
+| **Sodexo Perfect Score** | Field-operations app for real-time cooler compliance checks, offline-first | Swift, UIKit, CoreData |
+| [**Grocery App**](https://github.com/nimish-khandelwal/Grocery-App) | Full-featured grocery shopping app — auth, cart, wishlist, order tracking | Swift, UIKit, CoreData |
+| [**Disease Detection System**](https://github.com/nimish-khandelwal/Stealth-Disease-detection-System) | ML-based disease prediction | Python, Random Forest, KNN |
 
 ## 🛠 Tech Stack
 
@@ -17,31 +57,33 @@ iOS Developer with 1.5+ years of experience building and shipping production app
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Frameworks & SDKs:** CoreData · SwiftData · StoreKit · Stripe · Agora · LiveKit · WebRTC · APNs · WidgetKit
-**Tools:** Xcode · Firebase · REST APIs · Postman · CocoaPods · SPM · App Store Connect · TestFlight
-**Architecture:** MVVM · Clean Architecture · Swift Concurrency (async/await)
+| | |
+|---|---|
+| **Frameworks & SDKs** | CoreData · SwiftData · StoreKit · Stripe · Agora · LiveKit · WebRTC · APNs · WidgetKit |
+| **Tools** | Firebase · REST APIs · Postman · CocoaPods · SPM · App Store Connect · TestFlight |
+| **Architecture** | MVVM · Clean Architecture · Swift Concurrency (async/await) |
 
-## 🚀 Featured Projects
+## 🎓 Education & Certification
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [LiPi: Punjabi Kids Learning](https://apps.apple.com/in/app/lipi-punjabi-kids-learning/id6756845236) 📲 | Kids learning app built from scratch as sole iOS developer — 70K+ users, subscriptions, live classes, push notifications | SwiftUI, StoreKit, Stripe, Firebase, Agora/LiveKit |
-| AutoPay Tracker | Track monthly & yearly subscriptions with payment reminders and a home-screen widget *(repo coming soon)* | SwiftUI, SwiftData, WidgetKit, UserNotifications |
-| Sodexo Perfect Score | Field-operations app for real-time cooler compliance checks with offline persistence | Swift, UIKit, CoreData |
-| [Grocery App](https://github.com/nimish-khandelwal/Grocery-App) | Full-featured grocery shopping app — onboarding, auth, cart, wishlist, order tracking | Swift, UIKit, CoreData |
-| [Disease Detection System](https://github.com/nimish-khandelwal/Stealth-Disease-detection-System) | ML-based disease prediction system | Python, Random Forest, KNN |
+- **B.Tech, Computer Science & Engineering** — JECRC University, Jaipur (2025) · CGPA 8.4/10
+- **iOS & Swift – The Complete iOS App Development Bootcamp** — Udemy (2025)
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nimish-khandelwal&show_icons=true&theme=default" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish-khandelwal" alt="GitHub Streak" height="165" />
 </p>
 
-## 📫 Reach Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimish-khandelwal-955557265)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nimishkhandelwal2503@gmail.com)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/in/app/lipi-punjabi-kids-learning/id6756845236)
+<div align="center">
+
+**💬 Want to build something great together?**
+
+📧 [nimishkhandelwal2503@gmail.com](mailto:nimishkhandelwal2503@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/nimish-khandelwal-955557265) · 📞 +91-6350038289
+
+</div>
