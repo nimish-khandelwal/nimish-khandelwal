@@ -7,7 +7,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimish-khandelwal-955557265)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimishkhandelwal-ios)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nimishkhandelwal2503@gmail.com)
 [![App Store](https://img.shields.io/badge/App%20Store-Live%20App-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/in/app/lipi-punjabi-kids-learning/id6756845236)
 
@@ -207,7 +207,7 @@ timeline
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nimish--khandelwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimish-khandelwal-955557265)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nimishkhandelwal--ios-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimishkhandelwal-ios)
 [![Gmail](https://img.shields.io/badge/Gmail-nimishkhandelwal2503-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nimishkhandelwal2503@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-+91--6350038289-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916350038289)
 [![App Store](https://img.shields.io/badge/App_Store-LiPi-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/in/app/lipi-punjabi-kids-learning/id6756845236)
