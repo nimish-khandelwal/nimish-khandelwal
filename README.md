@@ -50,10 +50,10 @@ struct NimishKhandelwal: iOSDeveloper {
 | **UI Frameworks** | ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white) ![WidgetKit](https://img.shields.io/badge/WidgetKit-0D96F6?style=flat-square&logo=apple&logoColor=white) |
 | **Data & Persistence** | ![CoreData](https://img.shields.io/badge/CoreData-555555?style=flat-square&logo=apple&logoColor=white) ![SwiftData](https://img.shields.io/badge/SwiftData-F05138?style=flat-square&logo=swift&logoColor=white) |
 | **Payments & Monetization** | ![StoreKit](https://img.shields.io/badge/StoreKit-0D96F6?style=flat-square&logo=appstore&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) |
-| **Real-time & Media** | ![Agora](https://img.shields.io/badge/Agora-099DFD?style=flat-square&logo=agora&logoColor=white) ![LiveKit](https://img.shields.io/badge/LiveKit-FF6352?style=flat-square) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![APNs](https://img.shields.io/badge/APNs-000000?style=flat-square&logo=apple&logoColor=white) |
+| **Real-time & Media** | ![LiveKit](https://img.shields.io/badge/LiveKit-FF6352?style=flat-square) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![APNs](https://img.shields.io/badge/APNs-000000?style=flat-square&logo=apple&logoColor=white) |
 | **Backend & Cloud** | ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | **DevOps & Delivery** | ![App Store Connect](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=flat-square&logo=appstore&logoColor=white) ![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white) ![Firebase App Distribution](https://img.shields.io/badge/Firebase_App_Distribution-DD2C00?style=flat-square&logo=firebase&logoColor=white) |
-| **Tools** | ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white) ![SPM](https://img.shields.io/badge/Swift_Package_Manager-F05138?style=flat-square&logo=swift&logoColor=white) |
+| **Tools** | ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![SPM](https://img.shields.io/badge/Swift_Package_Manager-F05138?style=flat-square&logo=swift&logoColor=white) |
 | **Architecture** | MVVM · MVC · Clean Architecture · Swift Concurrency (async/await) · Modular Design |
 
 ## ⭐ Expertise
@@ -68,7 +68,7 @@ struct NimishKhandelwal: iOSDeveloper {
 ⭐⭐⭐⭐☆  CoreData / SwiftData
 ⭐⭐⭐⭐☆  StoreKit / Stripe Payments
 ⭐⭐⭐⭐☆  Firebase (Auth · Analytics · App Distribution)
-⭐⭐⭐☆☆  WebRTC / Agora / LiveKit
+⭐⭐⭐☆☆  WebRTC / LiveKit
 ```
 
 ## 🚀 Featured Projects
@@ -82,7 +82,7 @@ struct NimishKhandelwal: iOSDeveloper {
 
 Kids learning app built **solo, from scratch** — subscriptions, live classes, push notifications, analytics.
 
-**Features:** StoreKit subscriptions · Stripe payments · Agora/LiveKit live classes · Firebase Auth · Push notifications
+**Features:** StoreKit subscriptions · Stripe payments · LiveKit live classes · Firebase Auth · Push notifications
 
 `SwiftUI` `MVVM` `Clean Architecture` `Swift Concurrency`
 
@@ -151,7 +151,7 @@ Full-featured grocery shopping experience.
 timeline
     title Career Timeline
     Feb 2025 : Vision Group Retail — iOS App Developer
-             : 40+ issues resolved · Universal iPhone/iPad UI · VoiceOver accessibility · End-to-end App Store deployment
+             : 40+ issues resolved · Universal iPhone/iPad UI · End-to-end App Store deployment
     Oct 2025 : Merilipi — iOS App Developer
              : Built LiPi solo from scratch · 70K+ users · $9K+ subscription revenue · Live classes & payments
 ```
@@ -162,12 +162,12 @@ timeline
 ### iOS App Developer — Merilipi <sub>Oct 2025 – Present</sub>
 - Sole iOS developer for **LiPi: Punjabi Kids Learning**; shipped to App Store, **70,000+ users in 2 months**, **99.5% crash-free sessions**
 - Built from scratch: **SwiftUI, MVVM, Clean Architecture, Swift Concurrency**
-- Integrated **StoreKit subscriptions, Stripe, Firebase Auth, push notifications, Agora/LiveKit live classes, Meta SDK, Firebase Analytics**
+- Integrated **StoreKit subscriptions, Stripe, Firebase Auth, push notifications, LiveKit live classes, Meta SDK, Firebase Analytics**
 - Tracked **400K+ analytics events in 28 days**; supported **$9,000+ subscription revenue**
 
 ### iOS App Developer — Vision Group Retail <sub>Feb 2025 – Sep 2025</sub>
 - Resolved **40+ UI, functional, and crash issues**; managed end-to-end App Store deployment
-- Universal iPhone/iPad support: **Auto Layout, Size Classes, adaptive UI, VoiceOver accessibility**
+- Universal iPhone/iPad support: **Auto Layout, Size Classes, adaptive UI**
 - Shipped **4+ new features**; builds via Firebase App Distribution for QA and client review
 
 </details>
