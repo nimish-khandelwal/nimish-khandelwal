@@ -91,14 +91,14 @@ Kids learning app built **solo, from scratch** — subscriptions, live classes, 
 </td>
 <td width="50%" valign="top">
 
-### 💳 AutoPay Tracker
+### 💳 [AutoPay Tracker](https://github.com/nimish-khandelwal/AutoPay-Tracker)
 Subscription tracker — every monthly & yearly payment in one place.
 
 **Features:** Payment reminders · Home-screen widget with next bill at a glance
 
 `SwiftUI` `SwiftData` `WidgetKit` `UserNotifications`
 
-![Repo Coming Soon](https://img.shields.io/badge/Repo-Coming_Soon-6C63FF?style=flat-square&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nimish-khandelwal/AutoPay-Tracker)
 
 </td>
 </tr>
