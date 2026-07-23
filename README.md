@@ -105,12 +105,14 @@ Subscription tracker — every monthly & yearly payment in one place.
 <tr>
 <td width="50%" valign="top">
 
-### 🧊 Sodexo Perfect Score
-Field-operations app for **real-time cooler compliance checks**.
+### 📸 [SnapIt — AI Camera Shopping](https://github.com/nimish-khandelwal/Eternal_iOSHackathon_2026-SnapIt)
+Point your camera at a **product, shopping list, or fridge** — it becomes your Blinkit cart. Built at the **Eternal iOS Hackathon 2026**.
 
-**Features:** Offline-first CoreData persistence · Performance dashboards · iPhone + iPad responsive UI
+**Features:** Gemini Vision photo recognition · Snap Product / Shopping List / Pantry Scan modes · Smart quantity suggestions
 
-`Swift` `UIKit` `CoreData`
+`SwiftUI` `AVFoundation` `Gemini Vision API`
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nimish-khandelwal/Eternal_iOSHackathon_2026-SnapIt)
 
 </td>
 <td width="50%" valign="top">
